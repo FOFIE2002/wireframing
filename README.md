@@ -33,4 +33,30 @@ Wireframes are quick and inexpensive to create and update, making it easier to e
 
 ---
 
-Feel free to contribute examples, templates, or best practices for wireframing in this repository!
+## Key Elements of a Wireframe
+
+Wireframes focus on functionality and structure, not aesthetics. Below are the key elements typically found in a wireframe, along with examples of how each contributes to the overall design:
+
+### 1. Layout Structure
+Defines the basic framework and spatial arrangement of elements on the screen.
+
+**Example:** A three-column layout used on a news website organizes the main article in the center, with related stories on the right and navigation on the left. This improves content scanning and user flow.
+
+### 2. Navigation
+Displays how users will move through different sections of the product.
+
+**Example:** A navigation bar with links to “Home,” “Services,” and “Contact” allows users to access different parts of the site quickly, improving usability and reducing confusion.
+
+### 3. Content Placement
+Shows where key content such as text, images, and videos will appear.
+
+**Example:** Placing the headline and call-to-action above the fold ensures that critical information is immediately visible to users without scrolling.
+
+### 4. Functionality
+Represents interactive components such as buttons, forms, sliders, or dropdowns, and explains how they behave.
+
+**Example:** A wireframe for a login screen might show input fields for email and password, along with a “Sign In” button. Annotations may describe password validation or error handling behavior.
+
+---
+
+

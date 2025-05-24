@@ -94,4 +94,36 @@ This is a **High-Fidelity Wireframe** because it includes detailed UI elements s
 
 ---
 
+## Popular Wireframing Tools
+
+A variety of tools are available to help designers and developers create effective wireframes. These tools differ in complexity, features, and collaboration capabilities. Here are some of the most widely used:
+
+- **Figma**  
+- **Balsamiq**  
+- **Adobe XD**  
+- **Sketch**  
+- **Lucidchart**  
+- **Draw.io (diagrams.net)**
+
+### 🔍 Recommended Tool: Figma
+
+**Figma** is a powerful, browser-based design tool widely used for wireframing, prototyping, and UI/UX design. It supports real-time collaboration, making it ideal for teams working remotely or cross-functionally.
+
+**Key Features:**
+- **Live collaboration**: Multiple team members can edit and comment in real time.
+- **Component system**: Reusable elements like buttons or nav bars streamline consistent design.
+- **Cross-platform**: Works on any operating system via the web, with optional desktop apps.
+- **Prototyping**: Allows linking between frames to simulate user flows and interactions.
+- **Version history**: Easily review and revert to previous versions of a design.
+
+**Why it's useful for wireframing:**
+- Its intuitive interface lets you quickly create both low- and high-fidelity wireframes.
+- The ability to create reusable styles and components reduces repetitive work.
+- It integrates well with design systems, making the handoff to developers more efficient.
+
+You can view an example wireframe created in Figma here:  
+➡️ [Project Airbnb Wireframe](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0)
+
+---
+
 

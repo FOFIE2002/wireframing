@@ -22,17 +22,6 @@ By reviewing and testing wireframes, teams can detect potential UX problems earl
 ### 4. **Facilitates Iteration**
 Wireframes are quick and inexpensive to create and update, making it easier to explore multiple layout options and improve designs based on feedback.
 
-## Common Tools for Wireframing
-
-- Figma
-- Balsamiq
-- Adobe XD
-- Sketch
-- Lucidchart
-- Draw.io
-
----
-
 ## Key Elements of a Wireframe
 
 Wireframes focus on functionality and structure, not aesthetics. Below are the key elements typically found in a wireframe, along with examples of how each contributes to the overall design:
@@ -56,6 +45,52 @@ Shows where key content such as text, images, and videos will appear.
 Represents interactive components such as buttons, forms, sliders, or dropdowns, and explains how they behave.
 
 **Example:** A wireframe for a login screen might show input fields for email and password, along with a “Sign In” button. Annotations may describe password validation or error handling behavior.
+
+## Types of Wireframes
+
+Wireframes can vary in their level of detail and purpose. The two primary types are:
+
+### 1. Low-Fidelity Wireframes
+
+**Description:**  
+Low-fidelity wireframes are basic, simplified sketches or outlines of a design. They often use simple shapes (like boxes and lines) to represent content and layout without detailed styling or exact measurements.
+
+**Use Cases:**  
+- Early-stage brainstorming  
+- Quick feedback and iteration  
+- Team alignment on layout and structure  
+
+**Example:**  
+A black-and-white hand-drawn sketch showing a homepage layout with boxes for the logo, menu, image placeholders, and text blocks.
+
+### 2. High-Fidelity Wireframes
+
+**Description:**  
+High-fidelity wireframes are detailed and closely resemble the final product. They include specific fonts, spacing, colors (if needed), and interactive elements. These wireframes are often created using design tools like Figma or Adobe XD.
+
+**Use Cases:**  
+- Finalizing UI/UX details  
+- Usability testing  
+- Developer handoff  
+
+**Example:**  
+A clickable mockup of a mobile app screen showing actual buttons, icons, and realistic content in the intended layout.
+
+## What Type of Wireframe is This?
+
+> _[Project Airbnb Wireframe in Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0)_
+
+**Type:**  
+This is a **High-Fidelity Wireframe** because it includes detailed UI elements such as icons, typography, spacing, real or placeholder content, and visual layout that closely resembles the final design. It’s ideal for stakeholder presentations, usability testing, and guiding frontend development.
+
+## Common Tools for Wireframing
+
+- Figma  
+- Balsamiq  
+- Adobe XD  
+- Sketch  
+- Lucidchart  
+- Draw.io
 
 ---
 
